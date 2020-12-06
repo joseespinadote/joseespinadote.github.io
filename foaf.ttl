@@ -22,7 +22,7 @@
    foaf:givenName "Chavo" ;
    foaf:familyName "Del Ocho" ;
    foaf:age 9 ;
-   foaf:img <https://github.com/joseespinadote/joseespinadote.github.io/raw/master/phil-claudio-gonzales.r_d.284-213-12148.jpeg> ;
+   foaf:img <http://github.com/joseespinadote/joseespinadote.github.io/raw/master/phil-claudio-gonzales.r_d.284-213-12148.jpeg> ;
    foaf:homepage <https://chespirito.com/> ;
    foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh>, <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ;
    social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ;
