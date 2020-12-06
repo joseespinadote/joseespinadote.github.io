@@ -1,4 +1,4 @@
-@base <https://raw.githubusercontent.com/joseespinadote/joseespinadote.github.io/master/foaf.ttl> .
+@base <http://raw.githubusercontent.com/joseespinadote/joseespinadote.github.io/master/foaf.ttl> .
 
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
