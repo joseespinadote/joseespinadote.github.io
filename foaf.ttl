@@ -27,5 +27,5 @@
    foaf:knows <http://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh>, <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ;
    social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> ;
    foaf:interest wd:Q54837 , wd:Q3284368, wd:Q18463183, wd:Q19950730 , wd:Q10346226 , wd:Q16491652 ;
-   social:hasSpiritAnimal Q43730466 ;
+   social:hasSpiritAnimal wd:Q43730466 ;
    foaf:myersBriggs "INTP" .
